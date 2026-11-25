@@ -1,0 +1,4 @@
+{
+  "name": "lib-pkg",
+  "main": "src/entry.js"
+}
